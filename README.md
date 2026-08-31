@@ -1,10 +1,10 @@
-## Hi there 👋 I'm ishi-o
+## Hi there! I'm ishi-o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishi-o&exclude_repo=ishi-o.github.io,ishio_blogs)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a Java/Go backend developer and a student at DLUT.
 
-**🛠️ Tech Stack**
+**Tech Stack**
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,12 +18,12 @@ I'm a Java/Go backend developer and a student at DLUT.
 
 **Input Method:** Double Pinyin (Ziranma) enthusiast, [fcitx5](https://github.com/fcitx/fcitx5)
 
-**📌 Currently**
+**Currently**
 
-- 🔭 Working on backend services and productivity tools
-- 🌱 Learning Go concurrency and cloud-native tech
+- Working on backend services and productivity tools
+- Learning cloud-native
 - [![Blog-GitHub Pages](https://img.shields.io/badge/Blog-GitHub_Pages-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://ishi-o.github.io/)
-- [errbin](https://github.com/ishi-o/errbin): A Go utility for elegant error handling and logging.
-- [forumx](https://github.com/ishi-o/SimpleForum): A simple forum backend.
+- [nvim-mybatis](https://github.com/ishi-o/nvim-mybatis): A neovim+mybatis plugin powered by tree-sitter.
+- [golem](https://github.com/ishi-o/SimpleForum): An agent lib base on eino and eino-ext.
 
-**📫 Reach me**: Check my profile for contact info!
+**Reach me**: Check my profile for contact info!
