@@ -17,4 +17,4 @@
 - [golem](https://github.com/ishianecho/golem): An agent lib based on eino and eino-ext.
 - [mini.codex](https://github.com/ishianecho/mini.codex): Codex CLI integration in neovim with input/output and session management.
 
-**Blog**: https://ishianecho.github.io/
+**Blog**: https://echo.ishian.me/
